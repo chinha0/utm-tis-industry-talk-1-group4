@@ -50,7 +50,37 @@ Using MyREDS as a real-world community platform:
 - Post-sale responsibility: Launch is only the beginning—ongoing support, updates, incident recovery, data privacy, and cash discipline determine long-term viability.
 - AI & Software Work: AI can draft prototypes, explain errors, and suggest test cases, while humans remain accountable for architecture, integration, validation, security, and customer commitments.
 
+### 4. Real-World Application: MyREDS
+
+MyREDS (Resident Easy Decision System) demonstrates how technology can improve residential community management.
+
+The system consists of three main platforms:
+
+- Resident App: Allows residents to manage visitor invitations.
+- Guard App: Helps security guards verify visitors and manage access.
+- Web Admin Dashboard: Allows management to monitor records and operations.
+
+This example shows how people, hardware, software, data, and processes work together to create an effective information system.
+
+### 5. Business and Technology Insights
+
+The speaker also highlighted several important factors when developing a technology product:
+
+- Problem Identification: Understand customer needs before developing a solution.
+- MVP Development: Build a simple working product and test it with real users.
+- Financial Management: Consider development, maintenance, and support costs.
+- Customer Satisfaction: Continue supporting customers after launching the product.
+- AI Integration: Use AI to improve productivity while maintaining human responsibility for quality and security.
+
 ---
+
+## 💭 Group Reflection
+
+Through this industry talk, we learned that becoming a successful software developer requires more than programming skills. We also need to understand business opportunities, customer requirements, financial management, and teamwork.
+
+The MyREDS example helped us understand how an information system can solve real-world problems by connecting different users through an integrated platform.
+
+Overall, this talk broadened our understanding of the technology industry and encouraged us to develop solutions that are not only technically functional but also practical and sustainable.
 
 ## 📂 Repository Contents
 
