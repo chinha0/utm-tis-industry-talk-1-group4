@@ -82,6 +82,8 @@ The MyREDS example helped us understand how an information system can solve real
 
 Overall, this talk broadened our understanding of the technology industry and encouraged us to develop solutions that are not only technically functional but also practical and sustainable.
 
+---
+
 ## 📂 Repository Contents
 
 - [docs/Dr_Hafis_From_Developer_to_CEO_TIS.pdf](https://github.com/chinha0/utm-tis-industry-talk-1-group4/blob/main/Dr_Hafis_From_Developer_to_CEO_TIS.pdf) — Speaker presentation slides.
