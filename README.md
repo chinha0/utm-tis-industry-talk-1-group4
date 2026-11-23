@@ -56,7 +56,7 @@ Using MyREDS as a real-world community platform:
 
 ## 📂 Repository Contents
 
-- [docs/Dr_Hafis_From_Developer_to_CEO_TIS.pdf](https://github.com/chinha0/utm-tis-industry-talk-1-group4/blob/main/Assignment%202%20Poster%20Group%204%20Milo.pdf) — Speaker presentation slides.
+- [[docs/Dr_Hafis_From_Developer_to_CEO_TIS.pdf](https://github.com/chinha0/utm-tis-industry-talk-1-group4/blob/main/Assignment%202%20Poster%20Group%204%20Milo.pdf)](https://github.com/chinha0/utm-tis-industry-talk-1-group4/blob/main/Dr_Hafis_From_Developer_to_CEO_TIS.pdf) — Speaker presentation slides.
 - [docs/Assignment_2_Poster_Group_4_Milo.pdf](https://github.com/chinha0/utm-tis-industry-talk-1-group4/blob/main/Assignment%202%20Poster%20Group%204%20Milo.pdf) — Group 4 (Milo) Assignment 2 summary poster.
 - [assets/webinar-poster.jpg](https://github.com/chinha0/utm-tis-industry-talk-1-group4/blob/main/TIS%20Webinar%20Industry%20Talk%201-26-10-2026.jpg) — Official TIS Webinar Industry Talk 1 poster.
 
