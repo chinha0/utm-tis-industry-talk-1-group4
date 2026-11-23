@@ -1,6 +1,6 @@
 # TIS Industry Talk 1: From Developer to CEO — The Perfect Blend of Technology and Business
 
-[![Course]([https://img.shields.io/badge/Course-Technology%20%26%20Information%20System%20(TIS)-blue?style=flat-square](https://img.shields.io/badge/SECP1513-Technology%20%26%20Information%20System%20(TIS)-blue?style=flat-square))](#)
+[![Course](https://img.shields.io/badge/SECP1513-Technology%20%26%20Information%20System%20(TIS)-blue?style=flat-square)](#)
 [![Institution](https://img.shields.io/badge/Institution-Universiti%20Teknologi%20Malaysia%20(UTM)-800000?style=flat-square)](#)
 [![Group](https://img.shields.io/badge/Team-Group%204%20(Milo)-orange?style=flat-square)](#)
 
