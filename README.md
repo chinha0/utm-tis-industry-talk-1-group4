@@ -69,3 +69,5 @@ Using MyREDS as a real-world community platform:
 3. Delivery continues after launch
 4. Costs shape product choices
 5. Evidence improves the next version
+
+notes/talk-key-takeaways.md
